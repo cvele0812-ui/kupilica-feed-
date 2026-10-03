@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.google.com/shopping/reviews/schema/product/2.3/product_reviews.xsd">
+  <publisher>
+    <name>PokloniZaDecu.com</name>
+    <favicon>https://www.poklonizadecu.com/favicon.ico</favicon>
+  </publisher>
+  <reviews/>
+</feed>
